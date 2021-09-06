@@ -2,6 +2,6 @@
 
 -python manage.py migrate,
 
--configurar el email,
+-configurar el emails,
 
 -listo navegar :D.
